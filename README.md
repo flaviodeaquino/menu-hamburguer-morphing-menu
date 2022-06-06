@@ -15,5 +15,8 @@ Nesse desafio, criamos uma página web estilo portifólio. Nesse projeto utiliza
 
 1. Abrindo a página no windows: menu bolha não está como "bolha", abre em forma de retângulo com a borda inferior esquerda arredondada. Abrindo no linux não tivemos esse problema;
 2. No navegador maximizado, com o menu hamburguer aberto, sobra o finalzinho da página sem ser coberto pelo menu;
-3. No navegador não maximizado, "meia tela", o menu hamburguer não abre por cima dos cards, ficando apenas os escritos do menu, o que deixa bem esquisito;
-4. No navegador não maximizado, "meia tela", os efeitos nos cards não funcionam corretamente.
+3. No navegador não maximizado "meia tela" e no modo mobile, o menu hamburguer não abre por cima dos cards, ficando apenas os escritos do menu, o que deixa bem esquisito;
+4. No navegador não maximizado, "meia tela", os efeitos nos cards não funcionam corretamente;
+5. No modo mobile, os efeitos dos cards também não funcionam corretamente;
+6. No modo mobile, o menu hamburguer fica por cima do nome. Quero descobrir um modo de abaixar o nome para ficar um pouco abaixo do menu hamburguer. Se for necessário, abaixar Full Stack Developer também.
+7. No modo mobile, opós clicar no menu hamburguer, os textos não estão centralizados na tela.
